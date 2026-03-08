@@ -1,15 +1,3 @@
-# Level Design: Cozy Farm
-
-Questo progetto contiene il **level design** per il gioco *Cozy Farm* sviluppato con asset open-source e risorse gratuite.
-
----
-
-## Anteprima del progetto
-
-Puoi vedere il progetto su [Itch.io](https://styloo.itch.io/farm).
-
----
-
 ## Risorse utilizzate
 
 ### Modelli 3D
