@@ -9,7 +9,6 @@ public class PatrolEnemy : EnemiesFSM
 
     protected override void OnEnterPatrol()
     {
-        Debug.Log("Enter Patrol");
         StartCoroutine(PatrolRoutine());
     }
 
